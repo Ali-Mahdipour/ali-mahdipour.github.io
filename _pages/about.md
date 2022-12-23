@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Ali Golbazi Mahdipour\nAbout me"
+title: "Ali Golbazi Mahdipour
+About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
