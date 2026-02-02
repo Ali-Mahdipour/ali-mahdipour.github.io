@@ -28,5 +28,5 @@ Due to confidentiality agreements, detailed project outcomes and client-specific
 [Download professional CV](/assets/cv/professional-cv.pdf)
 
 **See also:**  
-- [Academic background](/about/academic/)  
+- [Academic Background](/about/academic/)  
 - [Background & CV overview](/about/)
