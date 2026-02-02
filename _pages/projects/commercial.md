@@ -2,6 +2,8 @@
 layout: page
 title: Commercial Projects
 permalink: /projects/commercial/
+nav: false
+nav_exclude: true
 ---
 
 ## Commercial Projects

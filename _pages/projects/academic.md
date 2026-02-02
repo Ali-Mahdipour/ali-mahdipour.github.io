@@ -2,6 +2,8 @@
 layout: page
 title: Academic Projects
 permalink: /projects/academic/
+nav: false
+nav_exclude: true
 ---
 
 ## Academic Projects
