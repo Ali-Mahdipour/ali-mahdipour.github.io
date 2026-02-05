@@ -23,6 +23,6 @@ Finally, I want to note that I have restarted—more seriously this time—consi
 
 These photos were taken today at **V Cafe, Gholhak**.
 
-![V Cafe, Gholhak](/assets/photos/posts/daily-notes/photo_2026-02-05_18-24-58.jpg)
+![V Cafe, Gholhak](/assets/photos/posts/daily-notes/2026-02-05/photo_2026-02-05_18-24-58.jpg)
 
-![Studying at V Cafe](/assets/photos/posts/daily-notes/photo_2026-02-05_18-24-57.jpg)
+![Studying at V Cafe](/assets/photos/posts/daily-notes/2026-02-05/photo_2026-02-05_18-24-57.jpg)
