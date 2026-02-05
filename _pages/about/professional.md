@@ -58,7 +58,7 @@ I have served as a **Teaching Assistant** and instructor in neuromarketing and r
 
 ---
 
-[Download professional CV](/assets/cv/professional-cv.pdf)
+[Download professional CV](/assets/cv/Ali_G_Mahdipour_Professional_CV.pdf)
 
 **See also:**  
 - [Academic Background](/about/academic/)  
