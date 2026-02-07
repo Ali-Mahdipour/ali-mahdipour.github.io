@@ -3,6 +3,7 @@ layout: post
 title: "Daily Note | 2026-02-05"
 date: 2026-02-05
 ---
+# Daily Note | 2026-02-05
 
 This is my **first daily note** on my personal website.  
 I’ll try to post other notes from time to time and capture small moments, thoughts, and progress along the way.
