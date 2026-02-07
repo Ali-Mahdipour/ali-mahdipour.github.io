@@ -11,6 +11,54 @@ It's saturday and I'm starting my day and new week hoping this is going to be a 
 **11:00 AM**  
 Today I woke up at about 7:30 and after taking my wife to her work place I studies some GRE vocab while I was in car and did a few Snapp Cab rides and studied some more vocab after that before arriving at the office. after writing some daily notes I want to resume working on my report. Starting from the recent uprising in Iran and shut down of the interner we halted sending out surveys to our users. Now I should see if we are going to send weekly surveys which we used to send on Saturdays. I also plan to put the list of the GRE vocabulary I studied on Anki in my daily note and see if I can keep doing this in the comming days.
 
+**12:00**  
+I updated one of the key reports, NOX (used an alt name for the sake of confidentiality), this actually updates 7 data bases which various reports are connected to. My initial observation suggest this was done correctly. Then I updated the second data base and I need to check the result in the final report to see if anything has gone wrong. I need to check out the MoM of the last meeting I had with my manager, Farzad, to make sure my final report fully meets all the requirments. I will have a short coffee break before that. 
+
+**16:00**  
+I made some satisfactory progress towards my accomplishing the important task of mine this should be done by the end of today. I plan to work with cab for some short time after work and study more GRE vocabulary. I will post the words I studied today here. I have like half an hour left for Anki studies and then I should take some real tests on verbal and quant sections as well as a brief writing practice which should not last longer than an other 1 hour.
+
+**19:53**  
+I finally finished the report I was working on. I will need to make further improvements on this report and make an other daily report in paralel to this weekly report. I will be working on these tomorrow. 
+
+Here is the list of vocabularies I studied today.
+• befuddle
+• filch
+• tempest
+• superannuated
+• millinery
+• cadence
+• stuffed shirt
+• mucus
+• testator
+• rubric
+• canto
+• rake
+• piscatorial
+• jaundiced
+• lackey
+• defalcation
+• divagate
+• opium
+• despair of
+• disenfranchise
+• vitiate
+• walrus
+• crevasse
+• preclude
+• assignation
+• gravel
+• purser
+• colloquial
+• scribe
+• perpetuate
+• pander
+• decagon
+• maroon
+• dye
+• galactic
+
+
+
 
 
 
