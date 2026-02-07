@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Note — 2026-02-05"
+title: "Daily Note | 2026-02-05"
 date: 2026-02-05
 ---
 
