@@ -20,7 +20,7 @@ I made some satisfactory progress towards my accomplishing the important task of
 **19:53**  
 I finally finished the report I was working on. I will need to make further improvements on this report and make an other daily report in paralel to this weekly report. I will be working on these tomorrow. 
 
-Here is the list of vocabularies I studied today.
+Back to GRE stuff. Here is the list of vocabularies I studied today.  
 • befuddle
 • filch
 • tempest
