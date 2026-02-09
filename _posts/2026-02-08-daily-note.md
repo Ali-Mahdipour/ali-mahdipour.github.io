@@ -8,7 +8,7 @@ date: 2026-02-08
 **11:22 AM**  
 Today, I woke up at approximately 8:30 a.m., which was about one hour later than my usual schedule. The night before, I went to bed late after playing badminton with my wife at a nearby park. In addition, she prepared a salad for my lunch, which took another thirty minutes. As a result, we did not fall asleep until around 1:30 a.m., nearly an hour later than normal.
 
-Because I needed to arrive at the office by 10:30 a.m., I did not study GRE vocabulary this morning. I accepted a Snapp*!* cab ride from Gisha to Velenjak and then headed directly to work. Fortunately, I was able to use the office parking facility and did not have to spend additional time searching for a parking spot.
+Because I needed to arrive at the office by 10:30 a.m., I did not study GRE vocabulary this morning. I accepted a Snapp! cab ride from Gisha to Velenjak and then headed directly to work. Fortunately, I was able to use the office parking facility and did not have to spend additional time searching for a parking spot.
 
 Today is expected to be a busy day, as I plan to send out routine surveys to our bikers and van drivers after a long interval. To accomplish this, I need to make several adjustments to the Python code I use to sample survey participants from our databases and decrypt recipients’ contact information. In order to improve usability and maintainability, I plan to create a separate module that handles the decryption process.
 
