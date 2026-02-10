@@ -5,7 +5,7 @@ date: 2026-02-08
 ---
 # Daily Note | 2026-02-08
 
-**11:22 AM**  
+**11:22**  
 Today, I woke up at approximately 8:30 a.m., which was about one hour later than my usual schedule. The night before, I went to bed late after playing badminton with my wife at a nearby park. In addition, she prepared a salad for my lunch, which took another thirty minutes. As a result, we did not fall asleep until around 1:30 a.m., nearly an hour later than normal.
 
 Because I needed to arrive at the office by 10:30 a.m., I did not study GRE vocabulary this morning. I accepted a Snapp! cab ride from Gisha to Velenjak and then headed directly to work. Fortunately, I was able to use the office parking facility and did not have to spend additional time searching for a parking spot.
