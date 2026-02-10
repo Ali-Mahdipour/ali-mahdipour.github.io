@@ -11,10 +11,11 @@ Today I woke up at about 7:15 and after taking Zohreh to her work place I studie
 Last night I played some badminton with my wife and sister-in-law in a park near our house and it was enjoyable. Tonight we can play ping pong too.
 
 Here are the tasks I have planned to accomplish today:  
-- Having a meeting with the Ops managers on the IX weekly report
-- Revising the Box and Van weekly surveys according to the spotted new requirments
-- Revising the basic analysis code and sampling queries for these surveys
-- Double checking the new versions of the IX surveys and being ready for release in the up comming week
-- Revising the IX analysis codes based on the test responses and being ready for updating reports on the comming Saturday
-- Submiting a test order on the DFF service `:white_check_mark:`  `\u274c`  \u274c \u2705
+- [ ] Having a meeting with the Ops managers on the IX weekly report
+- [ ] Revising the Box and Van weekly surveys according to the spotted new requirments
+- [ ] Revising the basic analysis code and sampling queries for these surveys
+- [ ] Double checking the new versions of the IX surveys and being ready for release in the up comming week
+- [ ] Revising the IX analysis codes based on the test responses and being ready for updating reports on the comming Saturday
+- [x] Submiting a test order on the DFF service 
+- [x] Updating the VO data gathering project status 
 
