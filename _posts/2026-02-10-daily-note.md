@@ -11,11 +11,50 @@ Today I woke up at about 7:15 and after taking Zohreh to her work place I studie
 Last night I played some badminton with my wife and sister-in-law in a park near our house and it was enjoyable. Tonight we can play ping pong too.
 
 Here are the tasks I have planned to accomplish today:  
-- [ ] Having a meeting with the Ops managers on the IX weekly report
-- [ ] Revising the Box and Van weekly surveys according to the spotted new requirments
+
 - [ ] Revising the basic analysis code and sampling queries for these surveys
 - [ ] Double checking the new versions of the IX surveys and being ready for release in the up comming week
 - [ ] Revising the IX analysis codes based on the test responses and being ready for updating reports on the comming Saturday
+- [ ] Preparing new form for CID 4 VO project and communicating it
+- [ ] Getting access to Minio for sharing data
+- [ ] Requesting creation of a Minio bucket for MR team
+- [x] Making sure the capacity of the VO project is still OK
+- [x] Revising the Box and Van weekly surveys according to the spotted new requirments
 - [x] Submiting a test order on the DFF service 
 - [x] Updating the VO data gathering project status 
+- [x] Talking to S.H on VO in CID 4
+- [x] Talking to F.A on new round of communication with target bikers of the VO service
+- [ ] Having a meeting with the Ops managers on the IX weekly report
 
+
+Personal tasks I have planned for today:
+- [ ] Posting the forgotten words of the day in this page
+- [ ] Reviewing at least 50 new words
+- [ ] Earning at least 150KT in Snapp Cab
+- [ ] Practising ping pong for at least 30min
+- [ ] Studying at least 1 CT, 1 SE, and 1 RC GRE question
+
+
+
+**19:30**  
+Today's forgotten vocabulary cards so far:
+• lechery
+• quibble
+• forensic
+• talon
+• hireling
+• slur
+• rift
+• strangle
+• fete
+• epistemologist
+• prelude
+• gully
+• turpitude
+• floe
+• parlance
+• unfeigned
+• fluted
+• vitriol
+• reprise
+• restitution
