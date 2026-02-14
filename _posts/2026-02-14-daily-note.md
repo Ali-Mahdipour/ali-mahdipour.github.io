@@ -34,5 +34,5 @@ Personal tasks I have planned for today:
 
 
 
-Today's forgotten vocabulary cards so far:
+Today's forgotten vocabulary cards so far:  
 • balm • leery • effusion • tryst • canter • needle • grudging • capillary • crabbed • tedium • epilogue • precipice • bratty • sportive • luster • triad • connivance • with guns blazing • prune • musky • rhapsodize • slash • lambaste • remoulade • espouse • bucolic • contest • amenable • frieze • slither • coalesce • contusion • perigee • etymology • spoonerism • badger • in calf • apropos • purgative • piquant • georgic • encumber • vignette • gauntlet • bland • procession • rail • shad • foment • pluck • phraseology • austere • nubile • sanguinary • panegyric • maleficent • sail through • actuate • contentious • obsequy • prefatory • isthmus • arrears • rivulet • expose • dossier • tome • bachhanalian • opprobrium • rebus • grating • ilk • podiatrist • jocund • wart • warts and all • relent • entree • siren  
