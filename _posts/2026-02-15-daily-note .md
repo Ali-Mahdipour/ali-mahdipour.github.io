@@ -16,7 +16,7 @@ Here are the list of the tasks I have planned to accomplish today:
 - [ ] Updating data bases for strategy report (Supply Side)
 - [ ] Preparing VQA weekly report
 - [ ] Preparing CSQA weekly report
-- [ ] Sending the first round of the VO project surveys for CID 4
+- [x] Sending the first round of the VO project surveys for CID 4
 - [ ] Preparing the downloader code for VO project surveys for CID 4
 - [ ] Revising the basic analysis code and sampling queries for routine surveys
 - [ ] Adding research ID to the sampling code of the surveys
@@ -43,7 +43,7 @@ Personal tasks I have planned for today:
 
 
 Today's forgotten vocabulary cards so far:  
-> • gesticulate • trough • cherubic • subdue • polymath • rent • brindled • countenance • quaint • quixote • taciturn • dross • apron • disingenuous • exhilarate • farcical • ratify • unguent • filial • demarcate • amity • spectral • disport • litigious • tutelage • innate • plauditory • celibate • fulsome • rendition • neophyte • swoon • genuflect • tumult • obtrude • patronizing • henpecked • ploy • brigand • expostulation • iota • mannered • daub • abortive • squeegee 
+> **• gesticulate • trough • cherubic • subdue • polymath • rent • brindled • countenance • quaint • quixote • taciturn • dross • apron • disingenuous • exhilarate • farcical • ratify • unguent • filial • demarcate • amity • spectral • disport • litigious • tutelage • innate • plauditory • celibate • fulsome • rendition • neophyte • swoon • genuflect • tumult • obtrude • patronizing • henpecked • ploy • brigand • expostulation • iota • mannered • daub • abortive • squeegee**
 
 ## Photos of the day
 
