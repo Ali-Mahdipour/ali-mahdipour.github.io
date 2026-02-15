@@ -8,7 +8,7 @@ date: 2026-02-14
 **13:45**  
 Today I got up about 6:30 and after taking a shower I felt well refreshed and I still feel so. After taking Zohreh to her work place I accepted a cab ride which turned out to be M.KH who is a colleague of mine. Then I studied about 70 GRE vocabulary and practiced some verbal questions with ChatGPT before heading to the office. I parked my car somewhere near the office and walking to office at about 10:30. 
 
-- [ ] Preparing new form for CID 4 VO project and communicating it
+
 - [ ] Sending the first round of the VO project surveys for CID 4
 - [ ] Preparing the downloader code for VO project surveys for CID 4
 - [ ] Revising the basic analysis code and sampling queries for routine surveys
@@ -17,17 +17,19 @@ Today I got up about 6:30 and after taking a shower I felt well refreshed and I 
 - [ ] Getting access to Minio for sharing data
 - [ ] Requesting creation of a Minio bucket for MR team
 - [ ] Having a meeting with the Ops managers on the IX weekly report
+- [x] Preparing new form for CID 4 VO project and communicating it
 - [x] Double checking the new versions of the IX surveys and being ready for release in the up comming week
 - [x] Sending the routine Van and Box surveys
 - [x] Updating the NOX data base and its related data bases
 - [x] Fixing the zeros issues in NOX data
 
 Personal tasks I have planned for today:
-- [ ] Posting the forgotten words of the day in this page
+- [x] Posting the forgotten words of the day in this page
 - [x] Reviewing at least 50 new words
 - [x] Earning at least 300 KT in Snapp Cab
-- [ ] Practising ping pong for at least 30min
+- [x] Practising ping pong for at least 30min
 - [x] Studying at least 1 CT, 1 SE, and 1 RC GRE question
+- [x] Getting stuff Zohreh has ordered from the store 
 - [ ] Buying some descaler for the water heater
 - [ ] Calling my mom
 
