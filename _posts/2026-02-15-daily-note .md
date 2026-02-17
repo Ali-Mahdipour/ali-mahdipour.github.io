@@ -32,13 +32,13 @@ Personal tasks I have planned for today:
 - [x] Posting the forgotten words of the day in this page
 - [x] Reviewing at least 50 new words
 - [x] Earning at least 300 KT in Snapp Cab
-- [ ] Practising ping pong for at least 30min
+- [x] Practising ping pong for at least 30min
 - [ ] Studying at least 1 CT, 1 SE, and 1 RC GRE question
 - [ ] ~~Buying some descaler for the water heater~~
 - [x] Calling my mom
 - [x] Calling Zohreh
-- [ ] Buying a gold necklace pendant for Zohreh
-
+- [ ] ~~Buying a gold necklace pendant for Zohreh~~
+~~
 
 
 
