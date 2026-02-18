@@ -43,7 +43,3 @@ Personal tasks I have planned for today:
 
 Today's forgotten vocabulary cards so far:  
 > **• platitudes • effete • wager • harping • abate • clamorous • translucent • amble • gruelling • exploit • demolition • prom • muckrake • suffragist • wail • scurrilous • irenic • primacy • agog • denizen • eyesore • dreary • sonnet • succour**
-<!-- 
-## Photos of the day
-
-![Platform Strategy Book](/assets/photos/posts/daily-notes/2026-02-15/20260215.png) -->

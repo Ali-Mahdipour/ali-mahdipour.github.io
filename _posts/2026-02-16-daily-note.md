@@ -44,7 +44,3 @@ Personal tasks I have planned for today:
 
 Today's forgotten vocabulary cards so far:  
 > **• amicable •clavicle • epithet • shack • unalloyed • adduce • hypotenuse • beseech • funereal • a raft of sth/sb • edify • toga • squalid • remunerative • perverse • rancher • spontaneity • meteorological • unflappable • theosophy • limpid • diction • condign • cringe • didactic • ubiquitous • collie • supererogatory • desiccation • unsparing • faux pas • contumacious • pun • bygone • maritime • woebegone • plaintive • quaver • proletariat • renunciation • imprecation • aloof • shibboleth • pillory • progeny • morpheme**
-<!-- 
-## Photos of the day
-
-![Platform Strategy Book](/assets/photos/posts/daily-notes/2026-02-15/20260215.png) -->

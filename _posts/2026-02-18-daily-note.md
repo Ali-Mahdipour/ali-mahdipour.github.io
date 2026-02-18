@@ -48,7 +48,3 @@ Personal tasks I have planned for today:
 
 Today's forgotten vocabulary cards so far:  
 > **• hermit • convivial • beleaguer • supernumerary • misanthrope • abiding • odyssey • alcove • purchase • declamatory • far-teched • nugatory • anoint • seminary • itinerary • debilitate • gloss over • mania • piebald • trilobite • tapestry • recrimination • sterling • brawl • cornice • endemic • periphery • countermand • trimester • inordinate • reproof • flimsy • expendable • attest • churlish • panache • morgue • ordain • ichtyology • meager • debase • xenophobic • petty • luscious • languish • devotee • enfranchise • matrimony • malinger • barring • rife • plod • vulture • munificent • potion • solitay • retrofit • prophecy • endue • mayhem • superflious • ebb • diatribe • oncology • glossary • swindler • enthrall • galley • stupor • garbled •thwart • aphasia**
-<!-- 
-## Photos of the day
-
-![Platform Strategy Book](/assets/photos/posts/daily-notes/2026-02-15/20260215.png) -->
