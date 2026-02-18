@@ -11,7 +11,7 @@ Today I got up about 7:00 and we managed to arrive early at Zohreh's work place 
 Here are the list of the tasks I have planned to accomplish today:
 
 
-- [ ] Planning session (s: 11:40, eta: 20 min, s2f: 10 min)
+
 - [ ] Writing a query on company's databases for getting the target details of the VO project in CID 3 to 5 (s: 12:15, eta: 45 min, s2f: ??)
 - [ ] Getting affirmation of a data owner on the results of my query (s: 13:00, eta: 45 min, s2f: ??)
 - [ ] Preparing the communication files for the VO project and requesting the communication (s: 14:30, eta: 30 min, s2f: ??)
@@ -24,14 +24,16 @@ Here are the list of the tasks I have planned to accomplish today:
 - [ ] Requesting creation of a Minio bucket for MR team
 - [ ] Having a meeting with the Ops managers on the IX weekly report
 - [ ] Targeting more bikers in CID 3, 4, and 5 for VO project
+- [x] Planning session (s: 11:40, eta: 20 min, s2f: 10 min)
 
 
 Personal tasks I have planned for today:
 
-- [ ] Posting the forgotten words of the day in this page (s: 12:00, eta: 15 min, s2f: ??)
+
 - [ ] Practising ping pong for at least 30min
 - [ ] Studying at least 1 CT, 1 SE, and 1 RC GRE question
 - [ ] Calling my mom
+- [x] Posting the forgotten words of the day in this page (s: 12:00, eta: 15 min, s2f: ??)
 - [x] Calling Zohreh
 - [x] Reviewing at least 50 new words
 - [x] Earning at least 300 KT in Snapp Cab
