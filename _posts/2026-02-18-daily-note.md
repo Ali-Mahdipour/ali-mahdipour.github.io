@@ -33,7 +33,7 @@ Personal tasks I have planned for today:
 - [ ] Practising ping pong for at least 30min
 - [ ] Studying at least 1 CT, 1 SE, and 1 RC GRE question
 - [ ] Calling my mom
-- [x] Posting the forgotten words of the day in this page (s: 12:00, eta: 15 min, s2f: ??)
+- [x] Posting the forgotten words of the day in this page (s: 12:00, eta: 15 min, s2f: 15 min)
 - [x] Calling Zohreh
 - [x] Reviewing at least 50 new words
 - [x] Earning at least 300 KT in Snapp Cab
