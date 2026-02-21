@@ -16,16 +16,18 @@ Here are the list of the tasks I have planned to accomplish today:
 
 
 
-- [ ] Getting affirmation of a data owner on the results of my query (s: 13:30, eta: 45 min, s2f: ??)
+
 - [ ] Checking if the data is being gathering for VO project and making sure we have the capacity for the new data (s: 15:30, eta: 30 min, s2f: ??)
-- [ ] Planning session for the next tasks and getting Farzad's go ahead of the priorities I think of (s: 16:00, eta: 15 min, s2f: ??)
+-
 - [ ] Adding research ID to the sampling code of the surveys
 - [ ] Revising the basic analysis code and sampling queries for routine surveys
 - [ ] Making sure everything is set up correctly for the VQA and CSQA projects to be reported on next Sunday
 - [ ] Getting access to Minio for sharing data
 - [ ] Requesting creation of a Minio bucket for MR team
 - [ ] Having a meeting with the Ops managers on the IX weekly report
-- [ ] Targeting more bikers in CID 3, 4, and 5 for VO project
+- [x] Targeting more bikers in CID 3, 4, and 5 for VO project
+- [x] Planning session for the next tasks and getting Farzad's go ahead of the priorities I think of (s: 16:00, eta: 15 min, s2f: ??)
+- [x] Getting affirmation of a data owner on the results of my query (s: 13:30, eta: 45 min, s2f: 45 min)
 - [x] Preparing the communication files for the VO project and requesting the communication (s: 16:00, eta: 30 min, s2f: 30 min)
 - [x] Writing a query on company's databases for getting the target details of the VO project in CID 3 to 5 (s: 12:15, eta: 45 min, s2f: 45 min)
 - [x] Checking the current status of the previous VO comms in CID 4 (s: 13:15, eta: 15 min, s2f: 15 min)
