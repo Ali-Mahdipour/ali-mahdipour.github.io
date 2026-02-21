@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Note | 2026-02-18"
-date: 2026-02-18
+title: "Daily Note | 2026-02-21"
+date: 2026-02-21
 ---
-# Daily Note | 2026-02-18
+# Daily Note | 2026-02-21
 
 **12:48**  
 Today I got up a bit late. It was about 7:30 that I woke up and we arrived late at Zohreh's work place. I earned like 300 KT working with car and studied like 150 GRE vocabulary before heading to the office. I arrived at the office about 10:45. Over the weekend I studied a good deal of vocabulary and earned some money working with car but spent much more buying clothes for Zohreh and grocery items in case there occures any war soon. I have to buy a rechargable light source too in cases we have any electricity outages. 
