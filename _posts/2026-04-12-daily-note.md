@@ -3,7 +3,7 @@ layout: post
 title: "Daily Note | 2026-04-12"
 date: 2026-04-12
 ---
-# Daily Note | 2026-02-24
+# Daily Note | 2026-04-12
 
 **11:34**  
 I am writing after long long time. A whole a lot have been going on since the last time I posted here. I even cannot say if this is posting since I do not have access to the internet yet and I am making an offline version of this post. I will focus on the most pressing things I have for today and leave writing the catch up notes of the events that I missed writing about for a later time.
