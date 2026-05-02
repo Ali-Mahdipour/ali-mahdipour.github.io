@@ -15,6 +15,8 @@ Here are the list of the tasks I have planned to accomplish today:
 
 
 - [ ] Finalize the daily report of X and N daily form based on the manually exported data (s: 13:00, eta: 1.5h, s2f:)
+- [ ] Follow up requesting for the NUBSI service assess ()
+- [ ] 
 - [ ] Update the to-do-list for today - part 1 (s: 15:30, eta: 15 min, s2f:)
 
 
